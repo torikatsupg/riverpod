@@ -15,7 +15,11 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_hooks: ^0.18.0
-  flutter_riverpod: 2.0.0-dev.9
+  flutter_riverpod: 
+    git:
+      url: https://github.com/rrousselGit/riverpod
+      ref: 24d9f09ebcd36f07a0fb49920d1456ea75392659
+      path: packages/flutter_riverpod
   riverpod:
     git:
       url: https://github.com/rrousselGit/riverpod
