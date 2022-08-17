@@ -17,13 +17,13 @@ dependencies:
   flutter_hooks: ^0.18.0
   flutter_riverpod: 
     git:
-      url: https://github.com/rrousselGit/riverpod
-      ref: 24d9f09ebcd36f07a0fb49920d1456ea75392659
+      url: https://github.com/torikatsupg/riverpod
+      ref: master
       path: packages/flutter_riverpod
   riverpod:
     git:
-      url: https://github.com/rrousselGit/riverpod
-      ref: 24d9f09ebcd36f07a0fb49920d1456ea75392659
+      url: https://github.com/torikatsupg/riverpod
+      ref: master
       path: packages/riverpod
 
   state_notifier: ^0.7.0
