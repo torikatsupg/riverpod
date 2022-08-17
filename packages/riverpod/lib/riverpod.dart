@@ -9,6 +9,8 @@ export 'package:state_notifier/state_notifier.dart' hide Listener, LocatorMixin;
 //         AsyncNotifierBase,
 //         AsyncNotifierProviderBase;
 
+export 'src/async_notifier.dart';
+
 export 'src/common.dart' hide AsyncTransition;
 
 export 'src/framework.dart'
